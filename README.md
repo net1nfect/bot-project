@@ -48,7 +48,7 @@ spotify-bot-free/
 
 1. masuk ke folder proyek:
    ```bash
-   cd /home/si-hitam/botnet/spotify-free
+   cd /bot-project/spotify-free
    ```
 2. isi proxy residensial di `config/proxies.txt` dengan format:
    ```text
