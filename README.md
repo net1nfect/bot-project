@@ -1,6 +1,6 @@
 # spotify bot free
 
-project ini dibuat buat ngejalanin spotify free account streaming secara otomatis di linux vps tanpa gui.
+project ini dibuat buat ngejalanin spotify free account streaming secara otomatis di linux tanpa gui.
 
 ## apa yang kerjain sistem ini
 
